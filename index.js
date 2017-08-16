@@ -1,2 +1,2 @@
 // Main
-module.exports = require('./src').protect;
+module.exports = require('./src');
